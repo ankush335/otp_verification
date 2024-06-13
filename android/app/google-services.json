@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784303908599",
+    "project_id": "saml-2a594",
+    "storage_bucket": "saml-2a594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784303908599:android:a87bdcabcc6288a547d5f2",
+        "android_client_info": {
+          "package_name": "com.example.otp_verification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4dldmMGemsXrCF4EPvXV4Fvm_PtRA-wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
